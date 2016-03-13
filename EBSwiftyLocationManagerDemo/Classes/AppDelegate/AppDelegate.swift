@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  EBSwiftyLocationManager
+//  EBSwiftyLocationManagerDemo
 //
-//  Created by Erid Bardhaj on 3/12/16.
+//  Created by Erid Bardhaj on 3/13/16.
 //  Copyright © 2016 Erid Bardhaj. All rights reserved.
 //
 

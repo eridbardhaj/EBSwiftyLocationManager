@@ -4,15 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>EBSwiftyLocationManager.xcscheme</key>
+		<key>EBSwiftyLocationManagerDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>E813E8771C93909B00F5E078</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E8D2FFB91C94E4CE0037BDC2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
